@@ -4,7 +4,7 @@
   "description": "This is a simple forecast Application using Node Js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/app.js"
   },
   "author": "Juan Ayala Lopez",
   "license": "ISC",
